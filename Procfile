@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run /Users/mariam/PycharmProjects/pythonProject/main.py
+  
+web: sh setup.sh && streamlit run main.py
